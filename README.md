@@ -1,5 +1,5 @@
 # qadcl
 
-Quick and dirty counrty lookup Bash script.
+Quick and dirty IP/Country lookup Bash script.
 
 Usage: ```qadcl.sh input_file output_file```
