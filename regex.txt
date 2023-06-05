@@ -1,0 +1,8 @@
+in.txt
+	replace "(?<=)(.*)(?=to )" with ""
+	replace "to " with ""
+	replace ":80" with ""
+	replace ":443" with ""
+
+out.txt
+	replace "\n,\n" with ","
